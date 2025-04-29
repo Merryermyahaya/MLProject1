@@ -1,0 +1,6 @@
+Flask
+gunicorn
+joblib
+torch
+sentence-transformers
+gdown
